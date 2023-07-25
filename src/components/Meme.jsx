@@ -44,8 +44,8 @@ function Meme() {
     return (
         <div >
             <form className="form">
-                    <input type="text" placeholder="Input 1" name="topText" onChange={handleChange} />
-                    <input type="text" placeholder="Input 2" name="bottomText" onChange={handleChange} value={meme.bottomText}/>
+                    <input type="text" placeholder="Top Text" name="topText" onChange={handleChange} />
+                    <input type="text" placeholder="Bottom Text" name="bottomText" onChange={handleChange} value={meme.bottomText}/>
                 <button 
                     className="button--meme"
                     onClick={handleSetRandomMemeUrl}>
