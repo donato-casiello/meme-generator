@@ -1,0 +1,63 @@
+Roverbella — 1.25
+San Giorgio Bigarello — 1.25
+Ponti sul Mincio — 1.25
+Castelbelforte — 1.25
+Sermide e Felonica — 1.30
+Roncoferraro — 1.30
+Castel d'Ario — 1.30 
+Solferino — 1.30
+Borgocarbonara — 1.30
+Bagnolo san vito — 1.30
+Marmirolo — 1.30
+Magnacavallo — 1.30
+Porto Mantovano — 1.35
+San Benedetto Po — 1.35
+Gonzaga — 1.35
+Mantova — 1.35
+Cavriana — 1.35
+Monzambano — 1.30
+Ostiglia — 1.35
+Pegognaga — 1.35
+Curtatone — 1.35
+Castiglione delle S. — 1.35
+Villimpenta — 1.35
+Volta Mantovana — 1.35
+Borgo Virgilio — 1.35
+Medole — 1.40
+Guidizzolo — 1.40
+Sustinente — 1.40
+Serravalle a Po — 1.40
+Poggio Rusco — 1.40
+Borgo Mantovano — 1.40
+Goito — 1.40
+Castel Goffredo — 1.45
+Suzzara — 1.45
+Moglia — 1.45
+Quingentole — 1.45
+Quistello — 1.45
+Motteggiana — 1.45
+Castellucchio — 1.45
+Schivenoglia — 1.45
+San Giovanni del Dosso — 1.45
+Ceresara — 1.50
+Asola — 1.50
+Casalmoro — 1.50 
+Casaloldo — 1.50
+Rodigo — 1.50
+Gazoldo degli Ippoliti — 1.50
+Casalromano — 1.55
+Dosolo — 1.55
+Gazzuolo — 1.55
+Marcaria — 1.55
+San Martino dall'Argine — 1.55
+Pomponesco — 1.55
+Redondesco — 1.55
+Piubega — 1.55
+Acquanegre sul chiese — 2 
+Bozzolo — 2 
+Canneto sull’aglio — 2 
+Commessaggio — 2
+Mariana Mantovana — 2
+Rivarolo Mantovano — 2.05
+Sabbioneta — 2.05
+Viadana — 2.05
