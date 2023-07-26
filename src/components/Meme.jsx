@@ -15,7 +15,6 @@ function Meme() {
         .then(data => setAllMeme(data.data.memes))
         
     }, [])
-    console.log(allMeme)
 
     function getNewMeme(){
         const randomIndex = Math.floor(Math.random() * allMeme.length)
@@ -37,9 +36,6 @@ function Meme() {
             }
         ))
     }
-
-
-
 
     return (
         <main >
