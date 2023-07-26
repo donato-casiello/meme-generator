@@ -42,7 +42,7 @@ function Meme() {
 
 
     return (
-        <div >
+        <main >
             <form className="form">
                     <input type="text" placeholder="Top Text" name="topText" onChange={handleChange} />
                     <input type="text" placeholder="Bottom Text" name="bottomText" onChange={handleChange} value={meme.bottomText}/>
@@ -57,7 +57,7 @@ function Meme() {
                 <h2 className="top-text---meme top">{meme.topText}</h2>
                 <h2 className="bottom-text---meme bottom">{meme.bottomText}</h2>
             </div>
-        </div>
+        </main>
     )
 }
 
