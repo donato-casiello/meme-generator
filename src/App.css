@@ -45,6 +45,8 @@ header {
 
 .left-side--header > img {
   width: 3rem;
+  color: white;
+  filter: hue-rotate(90deg);
 }
 
 .left-side--header > h1 {
